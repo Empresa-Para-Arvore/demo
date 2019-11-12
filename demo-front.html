@@ -1,0 +1,207 @@
+<div><ul id="users"></ul></div>
+<canvas id="canvas"></canvas>
+
+<style>
+#canvas {display: block;}
+</style>
+
+<script>
+    users = []
+    
+    function drawTree(tree) {
+        let  canvas = document.getElementById("canvas");
+        let  ctx = canvas.getContext("2d");
+        
+        let  W = window.innerWidth;
+        let  H = window.innerHeight;
+        let leafSize = 30;
+        
+        canvas.width = W;
+        canvas.height = H;
+        
+        let divergence = 80, reduction = .90;
+        
+        function randomLeaf(branch, score) {
+            let pointA = branch.startPoint, pointB = branch.endPoint
+            height = score * leafSize
+
+            angle = (pointB.y - pointA.y)/(pointB.x - pointA.x)
+
+            let randNum = Math.random() % (.5) + .3
+            x = (pointB.x - pointA.x) * randNum + pointA.x
+            y = angle * (x - pointA.x) + pointA.y
+            
+            startPoint =  {
+                x: x,
+                y: y,
+            }
+
+            direction = Math.random() > .5 ? 1 : -1
+            endPoint = {
+                x: startPoint.x + height * Math.cos((branch.angle + direction * 50) * Math.PI/180),
+                y: startPoint.y - height * Math.sin((branch.angle + direction * 50) * Math.PI/180),
+            }
+
+            return {
+                startPoint: startPoint,
+                endPoint: endPoint,
+                height: height,
+            }
+        }
+
+        function branches(branch) {    
+            calcEndPoint(branch)
+                
+            ctx.beginPath()
+            ctx.strokeStyle = 'brown'
+            ctx.moveTo(branch.startPoint.x, branch.startPoint.y)
+            ctx.lineTo(branch.endPoint.x, branch.endPoint.y)
+
+            ctx.lineWidth = branch.width
+
+            ctx.stroke()
+
+            if (branch.leafs) {
+                branch.leafs.map(leaf => randomLeaf(branch, leaf.score)).forEach(leaf => {
+                    ctx.beginPath()
+                    ctx.strokeStyle = 'green'
+                    ctx.lineWidth = 5
+                    ctx.moveTo(leaf.startPoint.x, leaf.startPoint.y)
+                    ctx.lineTo(leaf.endPoint.x, leaf.endPoint.y)
+                    ctx.stroke()
+                })
+            }
+
+            if (branch.branches) {
+               calcChildrensProperties(branch)
+                for(let key in branch.branches) {
+                    branches(branch.branches[key]);
+                }
+            }
+        }
+            
+        function calcChildrensProperties(branch) {
+            let cDivergence = divergence * Math.pow(reduction, branch.level);
+
+            let k = Object.keys(branch.branches).length
+            let divergenceRate = (cDivergence) / (k-1)
+            let currentDivergence = branch.angle - (cDivergence / 2)
+
+            for(let key in branch.branches) {
+                branch.branches[key].angle = currentDivergence
+                branch.branches[key].startPoint = branch.endPoint
+                branch.branches[key].width = branch.width * .5
+                branch.branches[key].height = branch.height * reduction
+
+                currentDivergence += divergenceRate
+            }
+            
+        }
+
+        function calcRootProperties(branch) {
+            let k = branch.roots.length
+            let divergenceRate = divergence / (k-1)
+            let currentDivergence = (-1 * branch.angle) - (divergence / 2)
+
+            for(let r of branch.roots) {
+                r.angle = currentDivergence
+                r.startPoint = branch.startPoint
+                r.endPoint = {
+                    x: r.startPoint.x + r.height * Math.cos(r.angle * Math.PI/180),
+                    y: r.startPoint.y - r.height * Math.sin(r.angle * Math.PI/180),
+                }
+                currentDivergence += divergenceRate
+            }
+        }
+
+        function calcEndPoint(branch) {
+            branch.endPoint = {
+                x: branch.startPoint.x + branch.height * Math.cos(branch.angle * Math.PI/180),
+                y: branch.startPoint.y - branch.height * Math.sin(branch.angle * Math.PI/180),
+            }
+        }
+        
+        function setLevel(node, currentLevel) {
+            node.level = currentLevel; 
+            for(let key in node.branches) setLevel(node.branches[key], currentLevel + 1)
+        }
+    
+        setLevel(tree, 1)
+        
+        tree.startPoint = { x: W/2, y: H-150 }
+        tree.endPoint = {x: tree.startPoint.x, y: tree.startPoint.y - tree.height}
+        tree.angle = 90
+
+        ctx.beginPath()
+        ctx.lineWidth = 3
+        ctx.moveTo(0, tree.startPoint.y);
+        ctx.lineTo(W, tree.startPoint.y);
+        ctx.strokeStyle = "green"
+        ctx.stroke()
+
+        ctx.beginPath()
+        ctx.moveTo(tree.startPoint.x, tree.startPoint.y);
+        ctx.lineTo(tree.endPoint.x, tree.endPoint.y);
+        ctx.strokeStyle = "brown"
+        ctx.lineWidth = tree.width
+        ctx.stroke()
+    
+        if(!tree.branches) { tree.branches = {} }
+        calcChildrensProperties(tree)
+        for(let key in tree.branches) {
+            branches(tree.branches[key])
+        }
+
+        calcRootProperties(tree)
+        for(let root of tree.roots) {
+            ctx.strokeStyle = 'brown'
+            ctx.beginPath()
+            ctx.moveTo(root.startPoint.x, root.startPoint.y)
+            ctx.lineTo(root.endPoint.x, root.endPoint.y)
+
+            ctx.lineWidth = 5
+
+            ctx.stroke()
+        }
+        writeLabels(tree)
+        
+        function writeLabels(tree) {
+            ctx.save();
+            tX = (tree.startPoint.x - (tree.startPoint.x - tree.endPoint.x) / 2)
+            // tree.angle += (tree.angle < 90) ? -15 : +15
+
+            ctx.translate(tX,  (tree.startPoint.y - (tree.startPoint.y - tree.endPoint.y) / 2));
+            ctx.rotate(-tree.angle * Math.PI/180);
+            
+            ctx.font = ((20 - (2*tree.level)) || 16).toString() + 'px serif';
+            ctx.fillStyle = "black"; // red
+            ctx.textAlign = "center";
+            ctx.fillText(tree.description, 0, 0 );
+            ctx.restore();
+
+            for(let key in tree.branches) { writeLabels(tree.branches[key])}
+            for(let index in tree.roots) { writeLabels(tree.roots[index])}
+        }
+    }
+
+    window.onload = function(){
+        let createItem = (text, index) => {
+            let item = document.createElement("p")
+            
+            item.addEventListener('click', () => drawTree(users[index].tree))
+            item.appendChild(document.createTextNode(text))
+
+            return item
+        }
+
+        let usersDom =  document.getElementById("users");
+        fetch('http://localhost:3000/users')
+        .then((res) => { return res.json() })
+        .then((data) => {
+            users = data
+            for(var index in data) {
+                usersDom.appendChild(createItem(users[index]['name'], index))
+            }
+        })
+    }
+</script>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:common="clr-namespace:demo.Common;assembly=demo"
+             x:Class="demo.Views.LoginPage">
+    <ContentPage.Content>
+        <RelativeLayout>
+            <Image Source="background.jpg" Aspect="Fill"
+                   RelativeLayout.WidthConstraint=
+                   "{ConstraintExpression Type=RelativeToParent, Property=Width}"
+                   RelativeLayout.HeightConstraint=
+                   "{ConstraintExpression Type=RelativeToParent, Property=Height}"/>
+            <Grid RelativeLayout.WidthConstraint=
+                  "{ConstraintExpression Type=RelativeToParent, Property=Width}"
+                  RelativeLayout.HeightConstraint=
+                  "{ConstraintExpression Type=RelativeToParent, Property=Height}">
+
+                <StackLayout Spacing="30" Padding="30, 0" VerticalOptions="Center">
+                    <StackLayout Margin="0, 0, 0, 50">
+                        <Image Source="zup.png" HeightRequest="75" VerticalOptions="Center" />
+                    </StackLayout>
+
+                    <StackLayout Orientation="Horizontal" Padding="10, 0" HorizontalOptions="FillAndExpand">
+                        <Image Source="iconUsername.png" HeightRequest="30" VerticalOptions="Center" />
+                        <Entry Placeholder="Username" BackgroundColor="Transparent" HorizontalOptions="FillAndExpand"
+                               TextColor="White" Keyboard="Email" Text="{Binding User.Email}" />
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal" Padding="10, 0" HorizontalOptions="FillAndExpand">
+                        <Image Source="iconPassword.png" HeightRequest="30" VerticalOptions="Center" />
+                        <Entry Placeholder="Password" BackgroundColor="Transparent" HorizontalOptions="FillAndExpand"
+                               TextColor="White" IsPassword="True" Text="{Binding User.Password}" />
+                    </StackLayout>
+
+                    <StackLayout>
+                        <Button Text="Login" BorderColor="White" BorderWidth="1"
+                                Command="{Binding LoginCommand}" Font="Medium" />
+                    </StackLayout>
+                </StackLayout>
+            </Grid>
+        </RelativeLayout>
+    </ContentPage.Content>
+</ContentPage>

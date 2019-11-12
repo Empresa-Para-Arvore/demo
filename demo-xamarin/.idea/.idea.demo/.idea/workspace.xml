@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06890b10-322f-4dc4-b99a-205c6a04c175" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/demo/ViewModels/BaseViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+              <folding>
+                <marker date="1565299920932" expanded="true" signature="6:115" ph="..." />
+                <marker date="1565299920932" expanded="true" signature="143:1178" ph="{...}" />
+                <marker date="1565299920932" expanded="true" signature="201:1176" ph="{...}" />
+                <marker date="1565299920932" expanded="true" signature="269:358" ph="{...}" />
+                <marker date="1565299920932" expanded="true" signature="516:768" ph="{...}" />
+                <marker date="1565299920932" expanded="true" signature="778:1170" ph="INotifyPropertyChanged" />
+                <marker date="1565299920932" expanded="true" signature="961:1151" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/demo/App.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="11" column="129" selection-start-line="11" selection-start-column="129" selection-end-line="11" selection-end-column="129" />
+              <folding>
+                <marker date="1565903922077" expanded="false" signature="6:196" ph="..." />
+                <marker date="1565903922077" expanded="true" signature="274:870" ph="{...}" />
+                <marker date="1565903922077" expanded="true" signature="319:868" ph="{...}" />
+                <marker date="1565903922077" expanded="true" signature="479:566" ph="{...}" />
+                <marker date="1565903922077" expanded="true" signature="610:664" ph="{...}" />
+                <marker date="1565903922077" expanded="true" signature="708:762" ph="{...}" />
+                <marker date="1565903922077" expanded="true" signature="807:862" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/demo/ViewModels/LoginViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="32" column="88" selection-start-line="32" selection-start-column="88" selection-end-line="32" selection-end-column="88" />
+              <folding>
+                <marker date="1565902918334" expanded="true" signature="6:244" ph="..." />
+                <marker date="1565902918334" expanded="true" signature="272:1406" ph="{...}" />
+                <marker date="1565902918334" expanded="true" signature="322:1404" ph="{...}" />
+                <marker date="1565902918334" expanded="true" signature="451:565" ph="{...}" />
+                <marker date="1565902918334" expanded="true" signature="610:1330" ph="{...}" />
+                <marker date="1565902918334" expanded="true" signature="778:1240" ph="{...}" />
+                <marker date="1565902918334" expanded="true" signature="1096:1226" ph="{...}" />
+                <marker date="1565902918334" expanded="true" signature="1273:1320" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/demo/Views/ItemsPage.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
+              <folding>
+                <marker date="1565656691782" expanded="true" signature="6:88" ph="..." />
+                <marker date="1565656691782" expanded="true" signature="111:741" ph="{...}" />
+                <marker date="1565656691782" expanded="true" signature="216:739" ph="{...}" />
+                <marker date="1565656691782" expanded="true" signature="317:454" ph="{...}" />
+                <marker date="1565656691782" expanded="true" signature="548:733" ph="{...}" />
+                <marker date="1565656691782" expanded="true" signature="590:684" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/demo/ViewModels/ItemsViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+              <folding>
+                <marker date="1565902967539" expanded="true" signature="6:230" ph="..." />
+                <marker date="1565902967539" expanded="true" signature="258:1936" ph="{...}" />
+                <marker date="1565902967539" expanded="true" signature="308:1934" ph="{...}" />
+                <marker date="1565902967539" expanded="true" signature="553:1291" ph="{...}" />
+                <marker date="1565902967539" expanded="true" signature="993:1105" ph="{...}" />
+                <marker date="1565902967539" expanded="true" signature="1220:1279" ph="{...}" />
+                <marker date="1565902967539" expanded="true" signature="1330:1411" ph="{...}" />
+                <marker date="1565902967539" expanded="true" signature="1463:1928" ph="{...}" />
+                <marker date="1565902967539" expanded="true" signature="1556:1663" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo/demo/Models/NewItemRequest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <marker date="1565904119555" expanded="false" signature="6:70" ph="..." />
+                <marker date="1565904119555" expanded="true" signature="94:617" ph="{...}" />
+                <marker date="1565904119555" expanded="true" signature="132:386" ph="{...}" />
+                <marker date="1565904119555" expanded="true" signature="257:380" ph="{...}" />
+                <marker date="1565904119555" expanded="true" signature="424:615" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Subs</find>
+      <find>background</find>
+      <find>back</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/81AE0EB2-90E2-4F55-8E19-2928E3E37A57/a4/8f2648de/Button.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CFEB875A-9568-4AD0-9F58-680B02E4AA2C/a3/5dde2f5b/INotifyPropertyChanged.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file:///Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/src/Xamarin.iOS/external/corefx/src/System.ObjectModel/src/System/Collections/ObjectModel/ObservableCollection.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/81AE0EB2-90E2-4F55-8E19-2928E3E37A57/5a/ed17db69/Label.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo/Models/NewItemRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/81AE0EB2-90E2-4F55-8E19-2928E3E37A57/33/0c778ccd/MessagingCenter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo.iOS/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/81AE0EB2-90E2-4F55-8E19-2928E3E37A57/8f/25f9fa35/RowDefinition.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E569CD69-6A6A-494F-BF8B-864F4393A892/cb/6a7f0586/ObservableCollection`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/81AE0EB2-90E2-4F55-8E19-2928E3E37A57/db/ab8c6273/INavigation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DADD22E-0197-42CE-80AA-EFEF99855BE0/e6/c9b6779e/Collection`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo/MainPage.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo/Models/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/81AE0EB2-90E2-4F55-8E19-2928E3E37A57/ad/a63a1b74/BindableObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo/Models/UserLogin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/81AE0EB2-90E2-4F55-8E19-2928E3E37A57/71/693ac287/MenuItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo/App.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo/App.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/81AE0EB2-90E2-4F55-8E19-2928E3E37A57/a5/96d5f842/Device.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/81AE0EB2-90E2-4F55-8E19-2928E3E37A57/27/0a0c302b/Command.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/22793AFA-3254-4BC9-BD46-26E57194B3F0/f6/a61ceba1/PageRenderer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/81AE0EB2-90E2-4F55-8E19-2928E3E37A57/0d/45e248a7/IPlatformServices.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo.iOS/Main.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo/ViewModels/NewItemViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/60CAB046-A6F7-4DB6-B96C-69ED467017C2/32/85b95d49/StringContent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo/ViewModels/ShowItemViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo/ViewModels/ItemsViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo/ViewModels/LoginViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file:///Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/src/Xamarin.iOS/UIKit/UIApplication.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo/ViewModels/BaseViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo/Models/Item.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo/Models/Tag.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/60CAB046-A6F7-4DB6-B96C-69ED467017C2/26/ffb83843/HttpClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo/Views/ShowItemPage.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo/Common/ImagePathResources.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo/Views/ItemsPage.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo/Views/LoginPage.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file:///Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/src/Xamarin.iOS/UIKit/UIBarButtonItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo/Views/LoginPage.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo/Views/NewItemPage.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DADD22E-0197-42CE-80AA-EFEF99855BE0/f8/e98d3ee7/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo/Views/ItemsPage.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo/Views/NewItemPage.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo/Views/ShowItemPage.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/demo/demo.Android/Resources/Resource.designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/60CAB046-A6F7-4DB6-B96C-69ED467017C2/83/abcc2776/HttpContent.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/demo/demo/MainPage.xaml.cs" />
+        <option value="$PROJECT_DIR$/demo/demo/Common/ImagePathResources.cs" />
+        <option value="$PROJECT_DIR$/demo/demo/ViewModels/ItemsPage.xaml.cs" />
+        <option value="$PROJECT_DIR$/demo/demo/ViewModels/ItemsPage.xaml" />
+        <option value="$PROJECT_DIR$/demo/demo/ViewModels/BaseViewModel.cs" />
+        <option value="$PROJECT_DIR$/demo/demo/Views/LoginPage.xaml.cs" />
+        <option value="$PROJECT_DIR$/demo/demo/ViewModels/ShowItemViewModel.cs" />
+        <option value="$PROJECT_DIR$/demo/demo.iOS/Info.plist" />
+        <option value="$PROJECT_DIR$/demo/demo/Views/LoginPage.xaml" />
+        <option value="$PROJECT_DIR$/demo/demo/Models/UserLogin.cs" />
+        <option value="$PROJECT_DIR$/demo/demo/Models/User.cs" />
+        <option value="$PROJECT_DIR$/demo/demo/Views/ItemsPage.xaml.cs" />
+        <option value="$PROJECT_DIR$/demo/demo/Views/ShowItemPage.xaml.cs" />
+        <option value="$PROJECT_DIR$/demo/demo/Views/NewItemPage.xaml" />
+        <option value="$PROJECT_DIR$/demo/demo/Views/ItemsPage.xaml" />
+        <option value="$PROJECT_DIR$/demo/demo/Models/Tag.cs" />
+        <option value="$PROJECT_DIR$/demo/demo/Views/NewItemPage.xaml.cs" />
+        <option value="$PROJECT_DIR$/demo/demo/Views/ShowItemPage.xaml" />
+        <option value="$PROJECT_DIR$/demo/demo/Models/Item.cs" />
+        <option value="$PROJECT_DIR$/demo/demo/ViewModels/LoginViewModel.cs" />
+        <option value="$PROJECT_DIR$/demo/demo/ViewModels/NewItemViewModel.cs" />
+        <option value="$PROJECT_DIR$/demo/demo/ViewModels/ItemsViewModel.cs" />
+        <option value="$PROJECT_DIR$/demo/demo/App.xaml.cs" />
+        <option value="$PROJECT_DIR$/demo/demo/Models/NewItemRequest.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="demo.Android/invalid/Android Facet - demo.Android" />
+    </ignored-facets>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="979" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="device.picker.selection" value="Nexus_5X_API_27" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Xamarin.iOS.iOS Default">
+    <configuration name="Android Default" type="XamarinAndroidProject" factoryName="Xamarin.Android">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/demo/demo.Android/demo.Android.csproj" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEPLOY_BEHAVIOUR_NAME" value="Default" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="iOS Default" type="XamarinIOSProject" factoryName="Xamarin.iOS">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/demo/demo.iOS/demo.iOS.csproj" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="DEFAULT_IPHONE_DEVICE" value="" />
+      <option name="DEFAULT_IPHONE_SIMULATOR" value="iPhone Xs iOS 12.4" />
+      <option name="DEPLOY_TARGET_BEHAVIOUR_NAME" value="Simulator" />
+      <option name="IS_PASS_PARENT_ENVS" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Xamarin.Android.Android Default" />
+      <item itemvalue="Xamarin.iOS.iOS Default" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06890b10-322f-4dc4-b99a-205c6a04c175" name="Default Changelist" comment="" />
+      <created>1565212344894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565212344894</updated>
+      <workItem from="1565212348184" duration="54000" />
+      <workItem from="1565212441810" duration="12809000" />
+      <workItem from="1565397592126" duration="1730000" />
+      <workItem from="1565405997329" duration="8518000" />
+      <workItem from="1565469262444" duration="191000" />
+      <workItem from="1565564215302" duration="7272000" />
+      <workItem from="1565891640940" duration="3271000" />
+      <workItem from="1565900337872" duration="3370000" />
+      <workItem from="1565903908022" duration="218000" />
+      <workItem from="1565905625768" duration="261000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="37694000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18681319" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Captures" order="5" weight="0.32967034" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32959184" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30408162" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32959184" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.4993895" weight="0.32959184" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" weight="0.32959184" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32959184" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.32959184" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50061053" side_tool="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32959184" />
+      <window_info anchor="bottom" id="Android Profiler" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Logcat" order="17" sideWeight="0.4993895" weight="0.32959184" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Device File Explorer" order="7" side_tool="true" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>TagsOnBase</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>resp.Content</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>resp</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>json</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>content</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>btn.TextColor</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>btn.BackgroundColor == Color.Gray</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>btn.BackgroundColor</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>btn.</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CFEB875A-9568-4AD0-9F58-680B02E4AA2C/a3/5dde2f5b/INotifyPropertyChanged.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo/Common/ImagePathResources.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <marker date="1565224368308" expanded="true" signature="44:243" ph="{...}" />
+            <marker date="1565224368308" expanded="true" signature="89:241" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/src/Xamarin.iOS/UIKit/UIBarButtonItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/81AE0EB2-90E2-4F55-8E19-2928E3E37A57/71/693ac287/MenuItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="191" column="5" lean-forward="true" selection-start-line="191" selection-start-column="5" selection-end-line="191" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/81AE0EB2-90E2-4F55-8E19-2928E3E37A57/27/0a0c302b/Command.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="101" column="17" lean-forward="true" selection-start-line="101" selection-start-column="17" selection-end-line="101" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/81AE0EB2-90E2-4F55-8E19-2928E3E37A57/db/ab8c6273/INavigation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/81AE0EB2-90E2-4F55-8E19-2928E3E37A57/33/0c778ccd/MessagingCenter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="83" column="37" selection-start-line="83" selection-start-column="37" selection-end-line="83" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DADD22E-0197-42CE-80AA-EFEF99855BE0/e6/c9b6779e/Collection`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/81AE0EB2-90E2-4F55-8E19-2928E3E37A57/8f/25f9fa35/RowDefinition.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-35">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/81AE0EB2-90E2-4F55-8E19-2928E3E37A57/5a/ed17db69/Label.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="121" column="11" selection-start-line="121" selection-start-column="11" selection-end-line="121" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/81AE0EB2-90E2-4F55-8E19-2928E3E37A57/a4/8f2648de/Button.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3645">
+          <caret line="302" column="9" lean-forward="true" selection-start-line="302" selection-start-column="9" selection-end-line="302" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/81AE0EB2-90E2-4F55-8E19-2928E3E37A57/ad/a63a1b74/BindableObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="822" column="8" selection-start-line="822" selection-start-column="8" selection-end-line="822" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo.iOS/Entitlements.plist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo.iOS/Info.plist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="39" column="15" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo.iOS/Main.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <marker date="1565212372900" expanded="false" signature="6:97" ph="..." />
+            <marker date="1565212372900" expanded="true" signature="118:461" ph="{...}" />
+            <marker date="1565212372900" expanded="true" signature="149:459" ph="{...}" />
+            <marker date="1565212372900" expanded="true" signature="251:453" ph="{...}" />
+            <marker date="1565212372900" expanded="true" signature="265:384" ph="/* if you want to use a different Application Delegate class from &quot;AppDelegate&quot; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/60CAB046-A6F7-4DB6-B96C-69ED467017C2/26/ffb83843/HttpClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="188" column="37" selection-start-line="188" selection-start-column="37" selection-end-line="188" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/60CAB046-A6F7-4DB6-B96C-69ED467017C2/83/abcc2776/HttpContent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/60CAB046-A6F7-4DB6-B96C-69ED467017C2/32/85b95d49/StringContent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E569CD69-6A6A-494F-BF8B-864F4393A892/cb/6a7f0586/ObservableCollection`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo/Views/ShowItemPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="37" column="44" lean-forward="true" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+          <folding>
+            <marker date="1565658129349" expanded="true" signature="6:102" ph="..." />
+            <marker date="1565658129349" expanded="true" signature="125:2030" ph="{...}" />
+            <marker date="1565658129349" expanded="true" signature="233:2028" ph="{...}" />
+            <marker date="1565658129349" expanded="true" signature="337:516" ph="{...}" />
+            <marker date="1565658129349" expanded="true" signature="556:2022" ph="{...}" />
+            <marker date="1565658129349" expanded="true" signature="882:959" ph="{...}" />
+            <marker date="1565658129349" expanded="true" signature="1008:1091" ph="{...}" />
+            <marker date="1565658129349" expanded="true" signature="1170:2012" ph="{...}" />
+            <marker date="1565658129349" expanded="true" signature="1238:1998" ph="{...}" />
+            <marker date="1565658129349" expanded="true" signature="1393:1907" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo/Models/User.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <marker date="1565656614052" expanded="true" signature="6:93" ph="..." />
+            <marker date="1565656614052" expanded="true" signature="117:598" ph="{...}" />
+            <marker date="1565656614052" expanded="true" signature="141:596" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo/Views/NewItemPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="73" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
+          <folding>
+            <marker date="1565469296299" expanded="true" signature="40:836" ph="&lt;&lt;ContentPage.ToolbarItems&gt;&#10;        &lt;ToolbarItem Text=&quot;Salvar&quot; Command=&quot;{Binding SaveItemCommand}&quot; /&gt;&#10;    &lt;/ContentPage.ToolbarItems&gt; &lt;ContentPage.Content&gt;&#10;        &lt;StackLayout Spacing=&quot;20&quot; Padding=&quot;15&quot;&gt;&#10;            &lt;Label Text=&quot;Titulo&quot; FontSize=&quot;Medium&quot; /&gt;&#10;            &lt;Entry x:Name=&quot;txtDescription&quot; Text=&quot;{Binding Item.Title}&quot; FontSize=&quot;Small&quot; /&gt;&#10;            &lt;Label Text=&quot;Descrição&quot; FontSize=&quot;Medium&quot; /&gt;&#10;            &lt;Entry Text=&quot;{Binding Item.Description}&quot; FontSize=&quot;Small&quot; /&gt;&#10;            &#10;            &lt;Grid x:Name=&quot;grid&quot; Margin=&quot;0&quot; Padding=&quot;0&quot; /&gt; &#10;        &lt;/StackLayout&gt;&#10;    &lt;/ContentPage.Content&gt;.../&gt;" />
+            <marker date="1565469296299" expanded="true" signature="218:350" ph="&lt;&lt;ToolbarItem Text=&quot;Salvar&quot; Command=&quot;{Binding SaveItemCommand}&quot; /&gt;.../&gt;" />
+            <marker date="1565469296299" expanded="true" signature="355:821" ph="&lt;&lt;StackLayout Spacing=&quot;20&quot; Padding=&quot;15&quot;&gt;&#10;            &lt;Label Text=&quot;Titulo&quot; FontSize=&quot;Medium&quot; /&gt;&#10;            &lt;Entry x:Name=&quot;txtDescription&quot; Text=&quot;{Binding Item.Title}&quot; FontSize=&quot;Small&quot; /&gt;&#10;            &lt;Label Text=&quot;Descrição&quot; FontSize=&quot;Medium&quot; /&gt;&#10;            &lt;Entry Text=&quot;{Binding Item.Description}&quot; FontSize=&quot;Small&quot; /&gt;&#10;            &#10;            &lt;Grid x:Name=&quot;grid&quot; Margin=&quot;0&quot; Padding=&quot;0&quot; /&gt; &#10;        &lt;/StackLayout&gt;.../&gt;" />
+            <marker date="1565469296299" expanded="true" signature="385:794" ph="&lt;&lt;Label Text=&quot;Titulo&quot; FontSize=&quot;Medium&quot; /&gt; &lt;Entry x:Name=&quot;txtDescription&quot; Text=&quot;{Binding Item.Title}&quot; FontSize=&quot;Small&quot; /&gt; &lt;Label Text=&quot;Descrição&quot; FontSize=&quot;Medium&quot; /&gt; &lt;Entry Text=&quot;{Binding Item.Description}&quot; FontSize=&quot;Small&quot; /&gt; &lt;Grid x:Name=&quot;grid&quot; Margin=&quot;0&quot; Padding=&quot;0&quot; /&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo/Views/ItemsPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding>
+            <marker date="1565658430094" expanded="true" signature="40:949" ph="&lt;&lt;ContentPage.ToolbarItems&gt;&#10;        &lt;ToolbarItem Text=&quot;Adicionar&quot; Command=&quot;{Binding AddItemCommand}&quot; /&gt;&#10;    &lt;/ContentPage.ToolbarItems&gt; &lt;StackLayout&gt;&#10;        &lt;ListView x:Name=&quot;list&quot; ItemsSource=&quot;{Binding Items}&quot; ItemSelected=&quot;ListView_OnItemSelected&quot;&gt;&#10;            &lt;ListView.ItemTemplate&gt;&#10;                &lt;DataTemplate&gt;&#10;                    &lt;ViewCell&gt;&#10;                        &lt;StackLayout Padding=&quot;10&quot;&gt;&#10;                            &lt;Label Text=&quot;{Binding Title}&quot; LineBreakMode=&quot;NoWrap&quot; FontSize=&quot;16&quot; /&gt;&#10;                        &lt;/StackLayout&gt;&#10;                    &lt;/ViewCell&gt;&#10;                &lt;/DataTemplate&gt;&#10;            &lt;/ListView.ItemTemplate&gt;&#10;        &lt;/ListView&gt;&#10;    &lt;/StackLayout&gt;.../&gt;" />
+            <marker date="1565658430094" expanded="true" signature="254:388" ph="&lt;&lt;ToolbarItem Text=&quot;Adicionar&quot; Command=&quot;{Binding AddItemCommand}&quot; /&gt;.../&gt;" />
+            <marker date="1565658430094" expanded="true" signature="393:934" ph="&lt;&lt;ListView x:Name=&quot;list&quot; ItemsSource=&quot;{Binding Items}&quot; ItemSelected=&quot;ListView_OnItemSelected&quot;&gt;&#10;            &lt;ListView.ItemTemplate&gt;&#10;                &lt;DataTemplate&gt;&#10;                    &lt;ViewCell&gt;&#10;                        &lt;StackLayout Padding=&quot;10&quot;&gt;&#10;                            &lt;Label Text=&quot;{Binding Title}&quot; LineBreakMode=&quot;NoWrap&quot; FontSize=&quot;16&quot; /&gt;&#10;                        &lt;/StackLayout&gt;&#10;                    &lt;/ViewCell&gt;&#10;                &lt;/DataTemplate&gt;&#10;            &lt;/ListView.ItemTemplate&gt;&#10;        &lt;/ListView&gt;.../&gt;" />
+            <marker date="1565658430094" expanded="true" signature="415:915" ph="&lt;&lt;ListView.ItemTemplate&gt;&#10;                &lt;DataTemplate&gt;&#10;                    &lt;ViewCell&gt;&#10;                        &lt;StackLayout Padding=&quot;10&quot;&gt;&#10;                            &lt;Label Text=&quot;{Binding Title}&quot; LineBreakMode=&quot;NoWrap&quot; FontSize=&quot;16&quot; /&gt;&#10;                        &lt;/StackLayout&gt;&#10;                    &lt;/ViewCell&gt;&#10;                &lt;/DataTemplate&gt;&#10;            &lt;/ListView.ItemTemplate&gt;.../&gt;" />
+            <marker date="1565658430094" expanded="true" signature="521:895" ph="&lt;&lt;DataTemplate&gt;&#10;                    &lt;ViewCell&gt;&#10;                        &lt;StackLayout Padding=&quot;10&quot;&gt;&#10;                            &lt;Label Text=&quot;{Binding Title}&quot; LineBreakMode=&quot;NoWrap&quot; FontSize=&quot;16&quot; /&gt;&#10;                        &lt;/StackLayout&gt;&#10;                    &lt;/ViewCell&gt;&#10;                &lt;/DataTemplate&gt;.../&gt;" />
+            <marker date="1565658430094" expanded="true" signature="561:858" ph="&lt;&lt;ViewCell&gt;&#10;                        &lt;StackLayout Padding=&quot;10&quot;&gt;&#10;                            &lt;Label Text=&quot;{Binding Title}&quot; LineBreakMode=&quot;NoWrap&quot; FontSize=&quot;16&quot; /&gt;&#10;                        &lt;/StackLayout&gt;&#10;                    &lt;/ViewCell&gt;.../&gt;" />
+            <marker date="1565658430094" expanded="true" signature="596:826" ph="&lt;&lt;StackLayout Padding=&quot;10&quot;&gt;&#10;                            &lt;Label Text=&quot;{Binding Title}&quot; LineBreakMode=&quot;NoWrap&quot; FontSize=&quot;16&quot; /&gt;&#10;                        &lt;/StackLayout&gt;.../&gt;" />
+            <marker date="1565658430094" expanded="true" signature="631:794" ph="&lt;&lt;Label Text=&quot;{Binding Title}&quot; LineBreakMode=&quot;NoWrap&quot; FontSize=&quot;16&quot; /&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo/Views/LoginPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <marker date="1565399150713" expanded="true" signature="6:72" ph="..." />
+            <marker date="1565399150713" expanded="true" signature="95:413" ph="{...}" />
+            <marker date="1565399150713" expanded="true" signature="176:411" ph="{...}" />
+            <marker date="1565399150713" expanded="true" signature="262:405" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/src/Xamarin.iOS/external/corefx/src/System.ObjectModel/src/System/Collections/ObjectModel/ObservableCollection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="74" column="91" selection-start-line="74" selection-start-column="91" selection-end-line="74" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo/Views/ShowItemPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding>
+            <marker date="1565891746424" expanded="true" signature="40:835" ph="&lt;&lt;ContentPage.ToolbarItems&gt;&#10;        &lt;ToolbarItem Text=&quot;Excluir&quot; Command=&quot;{Binding DeleteItemCommand}&quot; /&gt;&#10;    &lt;/ContentPage.ToolbarItems&gt; &lt;ContentPage.Content&gt;&#10;        &lt;StackLayout Spacing=&quot;20&quot; Padding=&quot;15&quot;&gt;&#10;            &lt;Label Text=&quot;Titulo&quot; FontSize=&quot;Medium&quot; /&gt;&#10;            &lt;Label Text=&quot;{Binding Item.Title}&quot; FontSize=&quot;Small&quot; /&gt;&#10;            &lt;Label Text=&quot;Descrição&quot; FontSize=&quot;Medium&quot; /&gt;&#10;            &lt;Label Text=&quot;{Binding Item.Description}&quot; FontSize=&quot;Small&quot; Margin=&quot;0&quot; /&gt;&#10;            &#10;            &lt;Grid x:Name=&quot;grid&quot; Margin=&quot;0&quot; Padding=&quot;0&quot; /&gt;&#10;        &lt;/StackLayout&gt;&#10;    &lt;/ContentPage.Content&gt;.../&gt;" />
+            <marker date="1565891746424" expanded="true" signature="219:363" ph="&lt;&lt;ToolbarItem Text=&quot;Excluir&quot; Command=&quot;{Binding DeleteItemCommand}&quot; /&gt;.../&gt;" />
+            <marker date="1565891746424" expanded="true" signature="368:820" ph="&lt;&lt;StackLayout Spacing=&quot;20&quot; Padding=&quot;15&quot;&gt;&#10;            &lt;Label Text=&quot;Titulo&quot; FontSize=&quot;Medium&quot; /&gt;&#10;            &lt;Label Text=&quot;{Binding Item.Title}&quot; FontSize=&quot;Small&quot; /&gt;&#10;            &lt;Label Text=&quot;Descrição&quot; FontSize=&quot;Medium&quot; /&gt;&#10;            &lt;Label Text=&quot;{Binding Item.Description}&quot; FontSize=&quot;Small&quot; Margin=&quot;0&quot; /&gt;&#10;            &#10;            &lt;Grid x:Name=&quot;grid&quot; Margin=&quot;0&quot; Padding=&quot;0&quot; /&gt;&#10;        &lt;/StackLayout&gt;.../&gt;" />
+            <marker date="1565891746424" expanded="true" signature="398:793" ph="&lt;&lt;Label Text=&quot;Titulo&quot; FontSize=&quot;Medium&quot; /&gt; &lt;Label Text=&quot;{Binding Item.Title}&quot; FontSize=&quot;Small&quot; /&gt; &lt;Label Text=&quot;Descrição&quot; FontSize=&quot;Medium&quot; /&gt; &lt;Label Text=&quot;{Binding Item.Description}&quot; FontSize=&quot;Small&quot; Margin=&quot;0&quot; /&gt; &lt;Grid x:Name=&quot;grid&quot; Margin=&quot;0&quot; Padding=&quot;0&quot; /&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo/Views/NewItemPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+          <folding>
+            <marker date="1565659735913" expanded="true" signature="6:189" ph="..." />
+            <marker date="1565659735913" expanded="true" signature="212:2792" ph="{...}" />
+            <marker date="1565659735913" expanded="true" signature="319:2790" ph="{...}" />
+            <marker date="1565659735913" expanded="true" signature="411:582" ph="{...}" />
+            <marker date="1565659735913" expanded="true" signature="620:2103" ph="{...}" />
+            <marker date="1565659735913" expanded="true" signature="1007:1084" ph="{...}" />
+            <marker date="1565659735913" expanded="true" signature="1133:1216" ph="{...}" />
+            <marker date="1565659735913" expanded="true" signature="1295:2093" ph="{...}" />
+            <marker date="1565659735913" expanded="true" signature="1363:2079" ph="{...}" />
+            <marker date="1565659735913" expanded="true" signature="1512:1944" ph="{...}" />
+            <marker date="1565659735913" expanded="true" signature="2154:2775" ph="{...}" />
+            <marker date="1565659735913" expanded="true" signature="2373:2570" ph="{...}" />
+            <marker date="1565659735913" expanded="true" signature="2570:2765" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo/Models/Tag.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <folding>
+            <marker date="1565658557719" expanded="true" signature="46:263" ph="{...}" />
+            <marker date="1565658557719" expanded="true" signature="69:261" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo/Models/UserLogin.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding>
+            <marker date="1565656326100" expanded="true" signature="6:56" ph="..." />
+            <marker date="1565656326100" expanded="true" signature="80:345" ph="{...}" />
+            <marker date="1565656326100" expanded="true" signature="109:343" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo/Models/Item.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding>
+            <marker date="1565896966118" expanded="true" signature="6:70" ph="..." />
+            <marker date="1565896966118" expanded="true" signature="94:433" ph="{...}" />
+            <marker date="1565896966118" expanded="true" signature="118:431" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.2/src/Xamarin.iOS/UIKit/UIApplication.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="79" column="9" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo.Android/Resources/drawable-ldpi/background.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/demo.Android/Resources/drawable-hdpi/background.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/demo.Android/Resources/drawable-mdpi/background.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/demo.Android/Resources/drawable/background.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo/Views/LoginPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <marker date="1565566096533" expanded="true" signature="40:2475" ph="&lt;&lt;ContentPage.Content&gt;&#10;        &lt;RelativeLayout&gt;&#10;            &lt;Image Source=&quot;background.jpg&quot; Aspect=&quot;Fill&quot;&#10;                   RelativeLayout.WidthConstraint=&#10;                   &quot;{ConstraintExpression Type=RelativeToParent, Property=Width}&quot;&#10;                   RelativeLayout.HeightConstraint=&#10;                   &quot;{ConstraintExpression Type=RelativeToParent, Property=Height}&quot;/&gt;&#10;            &lt;Grid RelativeLayout.WidthConstraint=&#10;                  &quot;{ConstraintExpression Type=RelativeToParent, Property=Width}&quot;&#10;                  RelativeLayout.HeightConstraint=&#10;                  &quot;{ConstraintExpression Type=RelativeToParent, Property=Height}&quot;&gt;&#10;&#10;                &lt;StackLayout Spacing=&quot;30&quot; Padding=&quot;30, 0&quot; VerticalOptions=&quot;Center&quot;&gt;&#10;                    &lt;StackLayout Margin=&quot;0, 0, 0, 50&quot;&gt;&#10;                        &lt;Image Source=&quot;zup.png&quot; HeightRequest=&quot;75&quot; VerticalOptions=&quot;Center&quot; /&gt;&#10;                    &lt;/StackLayout&gt;&#10;&#10;                    &lt;StackLayout Orientation=&quot;Horizontal&quot; Padding=&quot;10, 0&quot; HorizontalOptions=&quot;FillAndExpand&quot;&gt;&#10;                        &lt;Image Source=&quot;iconUsername.png&quot; HeightRequest=&quot;30&quot; VerticalOptions=&quot;Center&quot; /&gt;&#10;                        &lt;Entry Placeholder=&quot;Username&quot; BackgroundColor=&quot;Transparent&quot; HorizontalOptions=&quot;FillAndExpand&quot;&#10;                               TextColor=&quot;White&quot; Keyboard=&quot;Email&quot; Text=&quot;{Binding User.Email}&quot; /&gt;&#10;                    &lt;/StackLayout&gt;&#10;                    &lt;StackLayout Orientation=&quot;Horizontal&quot; Padding=&quot;10, 0&quot; HorizontalOptions=&quot;FillAndExpand&quot;&gt;&#10;                        &lt;Image Source=&quot;iconPassword.png&quot; HeightRequest=&quot;30&quot; VerticalOptions=&quot;Center&quot; /&gt;&#10;                        &lt;Entry Placeholder=&quot;Password&quot; BackgroundColor=&quot;Transparent&quot; HorizontalOptions=&quot;FillAndExpand&quot;&#10;                               TextColor=&quot;White&quot; IsPassword=&quot;True&quot; Text=&quot;{Binding User.Password}&quot; /&gt;&#10;                    &lt;/StackLayout&gt;&#10;&#10;                    &lt;StackLayout&gt;&#10;                        &lt;Button Text=&quot;Login&quot; BorderColor=&quot;White&quot; BorderWidth=&quot;1&quot;&#10;                                Command=&quot;{Binding LoginCommand}&quot; Font=&quot;Medium&quot; /&gt;&#10;                    &lt;/StackLayout&gt;&#10;                &lt;/StackLayout&gt;&#10;            &lt;/Grid&gt;&#10;        &lt;/RelativeLayout&gt;&#10;    &lt;/ContentPage.Content&gt;.../&gt;" />
+            <marker date="1565566096533" expanded="true" signature="284:2460" ph="&lt;&lt;RelativeLayout&gt;&#10;            &lt;Image Source=&quot;background.jpg&quot; Aspect=&quot;Fill&quot;&#10;                   RelativeLayout.WidthConstraint=&#10;                   &quot;{ConstraintExpression Type=RelativeToParent, Property=Width}&quot;&#10;                   RelativeLayout.HeightConstraint=&#10;                   &quot;{ConstraintExpression Type=RelativeToParent, Property=Height}&quot;/&gt;&#10;            &lt;Grid RelativeLayout.WidthConstraint=&#10;                  &quot;{ConstraintExpression Type=RelativeToParent, Property=Width}&quot;&#10;                  RelativeLayout.HeightConstraint=&#10;                  &quot;{ConstraintExpression Type=RelativeToParent, Property=Height}&quot;&gt;&#10;&#10;                &lt;StackLayout Spacing=&quot;30&quot; Padding=&quot;30, 0&quot; VerticalOptions=&quot;Center&quot;&gt;&#10;                    &lt;StackLayout Margin=&quot;0, 0, 0, 50&quot;&gt;&#10;                        &lt;Image Source=&quot;zup.png&quot; HeightRequest=&quot;75&quot; VerticalOptions=&quot;Center&quot; /&gt;&#10;                    &lt;/StackLayout&gt;&#10;&#10;                    &lt;StackLayout Orientation=&quot;Horizontal&quot; Padding=&quot;10, 0&quot; HorizontalOptions=&quot;FillAndExpand&quot;&gt;&#10;                        &lt;Image Source=&quot;iconUsername.png&quot; HeightRequest=&quot;30&quot; VerticalOptions=&quot;Center&quot; /&gt;&#10;                        &lt;Entry Placeholder=&quot;Username&quot; BackgroundColor=&quot;Transparent&quot; HorizontalOptions=&quot;FillAndExpand&quot;&#10;                               TextColor=&quot;White&quot; Keyboard=&quot;Email&quot; Text=&quot;{Binding User.Email}&quot; /&gt;&#10;                    &lt;/StackLayout&gt;&#10;                    &lt;StackLayout Orientation=&quot;Horizontal&quot; Padding=&quot;10, 0&quot; HorizontalOptions=&quot;FillAndExpand&quot;&gt;&#10;                        &lt;Image Source=&quot;iconPassword.png&quot; HeightRequest=&quot;30&quot; VerticalOptions=&quot;Center&quot; /&gt;&#10;                        &lt;Entry Placeholder=&quot;Password&quot; BackgroundColor=&quot;Transparent&quot; HorizontalOptions=&quot;FillAndExpand&quot;&#10;                               TextColor=&quot;White&quot; IsPassword=&quot;True&quot; Text=&quot;{Binding User.Password}&quot; /&gt;&#10;                    &lt;/StackLayout&gt;&#10;&#10;                    &lt;StackLayout&gt;&#10;                        &lt;Button Text=&quot;Login&quot; BorderColor=&quot;White&quot; BorderWidth=&quot;1&quot;&#10;                                Command=&quot;{Binding LoginCommand}&quot; Font=&quot;Medium&quot; /&gt;&#10;                    &lt;/StackLayout&gt;&#10;                &lt;/StackLayout&gt;&#10;            &lt;/Grid&gt;&#10;        &lt;/RelativeLayout&gt;.../&gt;" />
+            <marker date="1565566096533" expanded="true" signature="314:2433" ph="&lt;&lt;Image Source=&quot;background.jpg&quot; Aspect=&quot;Fill&quot;&#10;                   RelativeLayout.WidthConstraint=&#10;                   &quot;{ConstraintExpression Type=RelativeToParent, Property=Width}&quot;&#10;                   RelativeLayout.HeightConstraint=&#10;                   &quot;{ConstraintExpression Type=RelativeToParent, Property=Height}&quot;/&gt; &lt;Grid RelativeLayout.WidthConstraint=&#10;                  &quot;{ConstraintExpression Type=RelativeToParent, Property=Width}&quot;&#10;                  RelativeLayout.HeightConstraint=&#10;                  &quot;{ConstraintExpression Type=RelativeToParent, Property=Height}&quot;&gt;&#10;&#10;                &lt;StackLayout Spacing=&quot;30&quot; Padding=&quot;30, 0&quot; VerticalOptions=&quot;Center&quot;&gt;&#10;                    &lt;StackLayout Margin=&quot;0, 0, 0, 50&quot;&gt;&#10;                        &lt;Image Source=&quot;zup.png&quot; HeightRequest=&quot;75&quot; VerticalOptions=&quot;Center&quot; /&gt;&#10;                    &lt;/StackLayout&gt;&#10;&#10;                    &lt;StackLayout Orientation=&quot;Horizontal&quot; Padding=&quot;10, 0&quot; HorizontalOptions=&quot;FillAndExpand&quot;&gt;&#10;                        &lt;Image Source=&quot;iconUsername.png&quot; HeightRequest=&quot;30&quot; VerticalOptions=&quot;Center&quot; /&gt;&#10;                        &lt;Entry Placeholder=&quot;Username&quot; BackgroundColor=&quot;Transparent&quot; HorizontalOptions=&quot;FillAndExpand&quot;&#10;                               TextColor=&quot;White&quot; Keyboard=&quot;Email&quot; Text=&quot;{Binding User.Email}&quot; /&gt;&#10;                    &lt;/StackLayout&gt;&#10;                    &lt;StackLayout Orientation=&quot;Horizontal&quot; Padding=&quot;10, 0&quot; HorizontalOptions=&quot;FillAndExpand&quot;&gt;&#10;                        &lt;Image Source=&quot;iconPassword.png&quot; HeightRequest=&quot;30&quot; VerticalOptions=&quot;Center&quot; /&gt;&#10;                        &lt;Entry Placeholder=&quot;Password&quot; BackgroundColor=&quot;Transparent&quot; HorizontalOptions=&quot;FillAndExpand&quot;&#10;                               TextColor=&quot;White&quot; IsPassword=&quot;True&quot; Text=&quot;{Binding User.Password}&quot; /&gt;&#10;                    &lt;/StackLayout&gt;&#10;&#10;                    &lt;StackLayout&gt;&#10;                        &lt;Button Text=&quot;Login&quot; BorderColor=&quot;White&quot; BorderWidth=&quot;1&quot;&#10;                                Command=&quot;{Binding LoginCommand}&quot; Font=&quot;Medium&quot; /&gt;&#10;                    &lt;/StackLayout&gt;&#10;                &lt;/StackLayout&gt;&#10;            &lt;/Grid&gt;.../&gt;" />
+            <marker date="1565566096533" expanded="true" signature="343:657" ph="&lt;.../&gt;" />
+            <marker date="1565566096533" expanded="true" signature="670:2407" ph="&lt;&lt;StackLayout Spacing=&quot;30&quot; Padding=&quot;30, 0&quot; VerticalOptions=&quot;Center&quot;&gt;&#10;                    &lt;StackLayout Margin=&quot;0, 0, 0, 50&quot;&gt;&#10;                        &lt;Image Source=&quot;zup.png&quot; HeightRequest=&quot;75&quot; VerticalOptions=&quot;Center&quot; /&gt;&#10;                    &lt;/StackLayout&gt;&#10;&#10;                    &lt;StackLayout Orientation=&quot;Horizontal&quot; Padding=&quot;10, 0&quot; HorizontalOptions=&quot;FillAndExpand&quot;&gt;&#10;                        &lt;Image Source=&quot;iconUsername.png&quot; HeightRequest=&quot;30&quot; VerticalOptions=&quot;Center&quot; /&gt;&#10;                        &lt;Entry Placeholder=&quot;Username&quot; BackgroundColor=&quot;Transparent&quot; HorizontalOptions=&quot;FillAndExpand&quot;&#10;                               TextColor=&quot;White&quot; Keyboard=&quot;Email&quot; Text=&quot;{Binding User.Email}&quot; /&gt;&#10;                    &lt;/StackLayout&gt;&#10;                    &lt;StackLayout Orientation=&quot;Horizontal&quot; Padding=&quot;10, 0&quot; HorizontalOptions=&quot;FillAndExpand&quot;&gt;&#10;                        &lt;Image Source=&quot;iconPassword.png&quot; HeightRequest=&quot;30&quot; VerticalOptions=&quot;Center&quot; /&gt;&#10;                        &lt;Entry Placeholder=&quot;Password&quot; BackgroundColor=&quot;Transparent&quot; HorizontalOptions=&quot;FillAndExpand&quot;&#10;                               TextColor=&quot;White&quot; IsPassword=&quot;True&quot; Text=&quot;{Binding User.Password}&quot; /&gt;&#10;                    &lt;/StackLayout&gt;&#10;&#10;                    &lt;StackLayout&gt;&#10;                        &lt;Button Text=&quot;Login&quot; BorderColor=&quot;White&quot; BorderWidth=&quot;1&quot;&#10;                                Command=&quot;{Binding LoginCommand}&quot; Font=&quot;Medium&quot; /&gt;&#10;                    &lt;/StackLayout&gt;&#10;                &lt;/StackLayout&gt;.../&gt;" />
+            <marker date="1565566096533" expanded="true" signature="940:2387" ph="&lt;&lt;StackLayout Margin=&quot;0, 0, 0, 50&quot;&gt;&#10;                        &lt;Image Source=&quot;zup.png&quot; HeightRequest=&quot;75&quot; VerticalOptions=&quot;Center&quot; /&gt;&#10;                    &lt;/StackLayout&gt; &lt;StackLayout Orientation=&quot;Horizontal&quot; Padding=&quot;10, 0&quot; HorizontalOptions=&quot;FillAndExpand&quot;&gt;&#10;                        &lt;Image Source=&quot;iconUsername.png&quot; HeightRequest=&quot;30&quot; VerticalOptions=&quot;Center&quot; /&gt;&#10;                        &lt;Entry Placeholder=&quot;Username&quot; BackgroundColor=&quot;Transparent&quot; HorizontalOptions=&quot;FillAndExpand&quot;&#10;                               TextColor=&quot;White&quot; Keyboard=&quot;Email&quot; Text=&quot;{Binding User.Email}&quot; /&gt;&#10;                    &lt;/StackLayout&gt; &lt;StackLayout Orientation=&quot;Horizontal&quot; Padding=&quot;10, 0&quot; HorizontalOptions=&quot;FillAndExpand&quot;&gt;&#10;                        &lt;Image Source=&quot;iconPassword.png&quot; HeightRequest=&quot;30&quot; VerticalOptions=&quot;Center&quot; /&gt;&#10;                        &lt;Entry Placeholder=&quot;Password&quot; BackgroundColor=&quot;Transparent&quot; HorizontalOptions=&quot;FillAndExpand&quot;&#10;                               TextColor=&quot;White&quot; IsPassword=&quot;True&quot; Text=&quot;{Binding User.Password}&quot; /&gt;&#10;                    &lt;/StackLayout&gt; &lt;StackLayout&gt;&#10;                        &lt;Button Text=&quot;Login&quot; BorderColor=&quot;White&quot; BorderWidth=&quot;1&quot;&#10;                                Command=&quot;{Binding LoginCommand}&quot; Font=&quot;Medium&quot; /&gt;&#10;                    &lt;/StackLayout&gt;.../&gt;" />
+            <marker date="1565566096533" expanded="true" signature="1028:1192" ph="&lt;&lt;Image Source=&quot;zup.png&quot; HeightRequest=&quot;75&quot; VerticalOptions=&quot;Center&quot; /&gt;.../&gt;" />
+            <marker date="1565566096533" expanded="true" signature="1214:1656" ph="&lt;&lt;Image Source=&quot;iconUsername.png&quot; HeightRequest=&quot;30&quot; VerticalOptions=&quot;Center&quot; /&gt; &lt;Entry Placeholder=&quot;Username&quot; BackgroundColor=&quot;Transparent&quot; HorizontalOptions=&quot;FillAndExpand&quot;&#10;                               TextColor=&quot;White&quot; Keyboard=&quot;Email&quot; Text=&quot;{Binding User.Email}&quot; /&gt;.../&gt;" />
+            <marker date="1565566096533" expanded="true" signature="1431:1621" ph="&lt;.../&gt;" />
+            <marker date="1565566096533" expanded="true" signature="1677:2123" ph="&lt;&lt;Image Source=&quot;iconPassword.png&quot; HeightRequest=&quot;30&quot; VerticalOptions=&quot;Center&quot; /&gt; &lt;Entry Placeholder=&quot;Password&quot; BackgroundColor=&quot;Transparent&quot; HorizontalOptions=&quot;FillAndExpand&quot;&#10;                               TextColor=&quot;White&quot; IsPassword=&quot;True&quot; Text=&quot;{Binding User.Password}&quot; /&gt;.../&gt;" />
+            <marker date="1565566096533" expanded="true" signature="1894:2088" ph="&lt;.../&gt;" />
+            <marker date="1565566096533" expanded="true" signature="2145:2356" ph="&lt;&lt;Button Text=&quot;Login&quot; BorderColor=&quot;White&quot; BorderWidth=&quot;1&quot;&#10;                                Command=&quot;{Binding LoginCommand}&quot; Font=&quot;Medium&quot; /&gt;.../&gt;" />
+            <marker date="1565566096533" expanded="true" signature="2183:2321" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo.Android/Resources/drawable/zup.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo.Android/Resources/drawable/iconUsername.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo.Android/Resources/drawable/iconPassword.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo.Android/Resources/AboutResources.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo.Android/Resources/Resource.designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <marker date="1565902212046" expanded="true" signature="29:424" ph="/* ------------------------------------------------------------------------------ ... */" />
+            <marker date="1565902212046" expanded="true" signature="556:238599" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="685:238597" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="711:782" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="823:839" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="999:2678" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="2563:2637" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="2664:2674" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="2713:2966" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="2852:2926" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="2952:2962" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="3002:38214" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="38099:38173" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="38200:38210" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="38248:38944" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="38831:38905" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="38930:38940" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="38976:49928" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="49817:49891" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="49914:49924" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="49964:68003" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="67888:67962" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="67989:67999" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="68038:100841" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="100727:100801" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="100827:100837" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="100870:119273" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="119165:119239" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="119259:119269" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="119307:120875" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="120762:120836" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="120861:120871" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="120914:121259" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="121141:121215" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="121245:121255" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="121292:128495" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="128383:128457" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="128481:128491" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="132164:135175" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="135063:135137" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="135161:135171" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="135207:180972" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="180861:180935" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="180958:180968" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="181008:238594" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="181062:181556" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="184067:184083" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="184240:184256" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="184445:184548" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="185106:185141" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="185408:185526" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="186188:186268" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="186786:186821" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="187070:187105" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="187366:187433" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="187835:187902" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="188316:188422" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="189178:189313" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="190124:192144" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="203721:203807" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="204327:204379" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="204752:204770" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="204908:205126" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="206310:206583" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="208302:208337" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="208629:208677" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="208998:209048" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="209367:209402" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="209649:209767" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="210530:210582" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="210906:211043" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="211809:211946" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="212769:212787" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="212952:213055" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="213654:213751" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="214329:214377" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="214749:214893" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="215825:215886" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="216367:216398" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="216668:216733" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="217169:217260" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="217832:218198" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="220206:220346" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="221222:221387" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="222321:222369" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="222713:222731" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="222892:222927" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="223170:223354" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="224453:224471" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="224638:224656" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="224815:225097" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="226582:226632" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="226948:227026" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="227498:227731" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="228968:229014" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="229304:229577" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="230967:231167" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="232410:232679" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="234248:234738" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="237225:237307" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="237746:237796" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="238142:238188" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="238479:238553" ph="{...}" />
+            <marker date="1565902212046" expanded="true" signature="238580:238590" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo/App.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1565212339652" expanded="true" signature="40:272" ph="&lt;&lt;Application.Resources&gt;&#10;&#10;    &lt;/Application.Resources&gt;.../&gt;" />
+            <marker date="1565212339652" expanded="true" signature="204:257" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DADD22E-0197-42CE-80AA-EFEF99855BE0/f8/e98d3ee7/String.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="389" column="36" selection-start-line="389" selection-start-column="36" selection-end-line="389" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo/ViewModels/ShowItemViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+          <folding>
+            <marker date="1565406703780" expanded="false" signature="6:67" ph="..." />
+            <marker date="1565406703780" expanded="true" signature="95:626" ph="{...}" />
+            <marker date="1565406703780" expanded="true" signature="148:624" ph="{...}" />
+            <marker date="1565406703780" expanded="true" signature="318:465" ph="{...}" />
+            <marker date="1565406703780" expanded="true" signature="501:618" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo/ViewModels/NewItemViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding>
+            <marker date="1565902945508" expanded="true" signature="6:328" ph="..." />
+            <marker date="1565902945508" expanded="true" signature="356:1386" ph="{...}" />
+            <marker date="1565902945508" expanded="true" signature="408:1384" ph="{...}" />
+            <marker date="1565902945508" expanded="true" signature="682:782" ph="{...}" />
+            <marker date="1565902945508" expanded="true" signature="822:1212" ph="{...}" />
+            <marker date="1565902945508" expanded="true" signature="1111:1202" ph="{...}" />
+            <marker date="1565902945508" expanded="true" signature="1263:1378" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo/ViewModels/BaseViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding>
+            <marker date="1565299920932" expanded="true" signature="6:115" ph="..." />
+            <marker date="1565299920932" expanded="true" signature="143:1178" ph="{...}" />
+            <marker date="1565299920932" expanded="true" signature="201:1176" ph="{...}" />
+            <marker date="1565299920932" expanded="true" signature="269:358" ph="{...}" />
+            <marker date="1565299920932" expanded="true" signature="516:768" ph="{...}" />
+            <marker date="1565299920932" expanded="true" signature="778:1170" ph="INotifyPropertyChanged" />
+            <marker date="1565299920932" expanded="true" signature="961:1151" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo/App.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="11" column="129" selection-start-line="11" selection-start-column="129" selection-end-line="11" selection-end-column="129" />
+          <folding>
+            <marker date="1565903922077" expanded="false" signature="6:196" ph="..." />
+            <marker date="1565903922077" expanded="true" signature="274:870" ph="{...}" />
+            <marker date="1565903922077" expanded="true" signature="319:868" ph="{...}" />
+            <marker date="1565903922077" expanded="true" signature="479:566" ph="{...}" />
+            <marker date="1565903922077" expanded="true" signature="610:664" ph="{...}" />
+            <marker date="1565903922077" expanded="true" signature="708:762" ph="{...}" />
+            <marker date="1565903922077" expanded="true" signature="807:862" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo/ViewModels/LoginViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="32" column="88" selection-start-line="32" selection-start-column="88" selection-end-line="32" selection-end-column="88" />
+          <folding>
+            <marker date="1565902918334" expanded="true" signature="6:244" ph="..." />
+            <marker date="1565902918334" expanded="true" signature="272:1406" ph="{...}" />
+            <marker date="1565902918334" expanded="true" signature="322:1404" ph="{...}" />
+            <marker date="1565902918334" expanded="true" signature="451:565" ph="{...}" />
+            <marker date="1565902918334" expanded="true" signature="610:1330" ph="{...}" />
+            <marker date="1565902918334" expanded="true" signature="778:1240" ph="{...}" />
+            <marker date="1565902918334" expanded="true" signature="1096:1226" ph="{...}" />
+            <marker date="1565902918334" expanded="true" signature="1273:1320" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo/Views/ItemsPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
+          <folding>
+            <marker date="1565656691782" expanded="true" signature="6:88" ph="..." />
+            <marker date="1565656691782" expanded="true" signature="111:741" ph="{...}" />
+            <marker date="1565656691782" expanded="true" signature="216:739" ph="{...}" />
+            <marker date="1565656691782" expanded="true" signature="317:454" ph="{...}" />
+            <marker date="1565656691782" expanded="true" signature="548:733" ph="{...}" />
+            <marker date="1565656691782" expanded="true" signature="590:684" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo/ViewModels/ItemsViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+          <folding>
+            <marker date="1565902967539" expanded="true" signature="6:230" ph="..." />
+            <marker date="1565902967539" expanded="true" signature="258:1936" ph="{...}" />
+            <marker date="1565902967539" expanded="true" signature="308:1934" ph="{...}" />
+            <marker date="1565902967539" expanded="true" signature="553:1291" ph="{...}" />
+            <marker date="1565902967539" expanded="true" signature="993:1105" ph="{...}" />
+            <marker date="1565902967539" expanded="true" signature="1220:1279" ph="{...}" />
+            <marker date="1565902967539" expanded="true" signature="1330:1411" ph="{...}" />
+            <marker date="1565902967539" expanded="true" signature="1463:1928" ph="{...}" />
+            <marker date="1565902967539" expanded="true" signature="1556:1663" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo/Models/NewItemRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <marker date="1565904119555" expanded="false" signature="6:70" ph="..." />
+            <marker date="1565904119555" expanded="true" signature="94:617" ph="{...}" />
+            <marker date="1565904119555" expanded="true" signature="132:386" ph="{...}" />
+            <marker date="1565904119555" expanded="true" signature="257:380" ph="{...}" />
+            <marker date="1565904119555" expanded="true" signature="424:615" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
